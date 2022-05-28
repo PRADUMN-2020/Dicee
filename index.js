@@ -1,4 +1,4 @@
-document.querySelector(".btn").addEventListener("click",rollTheDice)
+document.querySelector(".btn").addEventListener("click",rollTheDice);
 
 function rollTheDice()
 {
